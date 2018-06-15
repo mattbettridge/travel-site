@@ -1,17 +1,17 @@
 [
   {
-  "id_num":"001","name":"Josh Adams"
+  "id_num":"001","firstname":"Josh", "lastname":"Adams", "email":"jadams@apolloedge.com", "role_num":"1"
   },
   {
-  "id_num":"002","name":"Matt Bettridge"
+  "id_num":"002","firstname":"Matt", "lastname":"Bettridge", "email":"mbettridge@apolloedge.com", "role_num":"2"
   },
   {
-  "id_num":"003","name":"Parker Dahl"
+  "id_num":"003","firstname":"Parker", "lastname":"Dahl", "email":"pdahl@apolloedge.com", "role_num":"3"
   },
   {
-  "id_num":"004","name":"Lee Wilcken"
+  "id_num":"004","firstname":"Lee", "lastname":"Wilcken", "email":"lwilcken@apolloedge.com", "role_num":"4"
   },
   {
-  "id_num":"005","name":"Tom Weitecki"
+  "id_num":"005","firstname":"Tom", "lastname":"Weitecki", "email":"tweitecki@apolloedge.com", "role_num":"5"
   }
 ]
